@@ -24,10 +24,6 @@
 
 ### Live Link
 
-[Visit the live application](https://zedd-weather.vercel.app)
+[Visit the live application](https://weather-crispyvickys-projects.vercel.app/)
 
-### Support
 
-Please support by starring this project. Follow me for more cool open-source projects.
-
-[GitHub - adedoyin-emmanuel](https://github.com/adedoyin-emmanuel/)

@@ -9,15 +9,17 @@ const Settings = () => {
   };
 
   const navigateToProject = ()=>{
-    navigate("https://github.com/Adedoyin-Emmanuel/react-weather-app");
+    navigate("https://github.com/crispyvicky");
   }
 
   const navigateToGithub = () =>{
-    navigate("https://github.com/Adedoyin-Emmanuel");
+    navigate("https://github.com/crispyvicky");
   }
 
   const [defaultLocation, setDefaultLocation] = useState("");
   return (
+
+    
     <React.Fragment>
       <Spinner />
       <section className="container-fluid width-toggle-5 m-auto">
@@ -58,7 +60,7 @@ const Settings = () => {
               </svg>
               <p className=" text-capitalize px-3 text-dark">sponsor me!</p>
             </section>
-            Hi, I'm Adedoyin Emmanuel. I built this weather app in 2023 to
+            Hi, Vignesh yadav. I built this weather app  to
             sharpen my react skills and also have a clean, ads free application
             I can use. I make most of my side projects open source with the hope
             people would be able to learn and use the things I build.
